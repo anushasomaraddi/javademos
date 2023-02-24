@@ -1,7 +1,9 @@
 package javademosproject;
 
 public class demo2 {
-
+        public demo2() {
+        	System.out.println("constructor");
+        }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       System.out.println("main");
@@ -18,3 +20,6 @@ public class demo2 {
     	System.out.println("method");
     }
 }
+//private constructors cannot be created outside of the class its the compilation error
+//static variable can be accessed by an instance of a class
+//non static variable can be accessed with the class name
