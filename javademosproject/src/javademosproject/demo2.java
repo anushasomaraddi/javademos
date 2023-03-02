@@ -21,5 +21,5 @@ public class demo2 {
     }
 }
 //private constructors cannot be created outside of the class its the compilation error
-//static variable can be accessed by an instance of a class
-//non static variable can be accessed with the class name
+//non static variable can be accessed by an instance of a class
+//static variable can be accessed with the class name

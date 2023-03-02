@@ -28,7 +28,7 @@ public class operatorsdemo {
 		//assignment operators p-=3;
 		int p=4;
 		int q=5;
-		int res=(p<q)?p:q;
+		int res=(p<q)?p:q;//ternery operators
 		System.out.println(res);
 		}
        

@@ -12,7 +12,7 @@ int a=65;
 
 long l=a;
 char ch='a';
-System.out.print(ch);
+System.out.println(ch);
 int x=ch;
 System.out.println (x);
 
@@ -22,3 +22,4 @@ System.out.println(z);
 }
 
 }
+
